@@ -29,8 +29,8 @@
      showgrid="true"
      units="px"
      inkscape:zoom="0.44785584"
-     inkscape:cx="2733.0223"
-     inkscape:cy="538.11959"
+     inkscape:cx="2404.7917"
+     inkscape:cy="911.00743"
      inkscape:window-width="1366"
      inkscape:window-height="715"
      inkscape:window-x="-8"
@@ -124,19 +124,19 @@
     <rect
        style="fill:#999999;stroke-width:0.971596;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect4270"
-       width="368.30005"
+       width="365.65424"
        height="62.441662"
        x="430.74161"
        y="76.199997"
        ry="2.4422208e-08" />
     <rect
-       style="fill:#008080;stroke-width:1.4856;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
+       style="fill:#999999;fill-opacity:1;stroke-width:1.4856;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect4462"
-       width="206"
-       height="45"
+       width="204.25586"
+       height="111.16713"
        x="592.13995"
-       y="24.870964"
-       ry="4.2241016e-08" />
+       y="24.870966"
+       ry="1.0435139e-07" />
     <rect
        style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.656596;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
        id="rect15759"
@@ -146,7 +146,7 @@
        y="145.5209"
        ry="1.720224e-07" />
     <rect
-       style="fill:#9d93ac;stroke-width:0.895028;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
+       style="fill:#008080;fill-opacity:1;stroke-width:0.895028;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect4674"
        width="172"
        height="87.233284"
@@ -188,11 +188,17 @@
     <rect
        style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.529903;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
        id="rect17850"
-       width="86"
+       width="203.73114"
        height="16"
-       x="724.4292"
-       y="158.22084"
+       x="592.66467"
+       y="25.929543"
        ry="3.4031682e-08" />
+    <path
+       style="display:inline;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 714.37502,238.12501 H 828.14586"
+       id="path10986"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
     <rect
        style="fill:#6f916f;fill-opacity:1;stroke-width:0.444958;stroke-linecap:round;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
        id="rect3370"
@@ -202,7 +208,7 @@
        y="221.72087"
        ry="2.3396781e-08" />
     <rect
-       style="fill:#9d93ac;stroke-width:0.909111;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
+       style="fill:#008080;stroke-width:0.909111;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect7780"
        width="172"
        height="90"
@@ -214,12 +220,6 @@
        d="m 780.52082,211.66667 v 0"
        id="path7837"
        inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#9d93ac;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 714.37502,238.12501 H 828.14586"
-       id="path10986"
-       inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -10539,7 +10539,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="595.3125"
-       y="158.75"
+       y="156.1042"
        id="text19684"
        inkscape:export-filename="E:\text2901.png"
        inkscape:export-xdpi="96"
@@ -10547,12 +10547,12 @@
          sodipodi:role="line"
          id="tspan2070"
          x="595.3125"
-         y="158.75">Matrix Editor</tspan></text>
+         y="156.1042">Matrix Editor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="436.5625"
-       y="39.6875"
+       y="37.041664"
        id="text19708"
        inkscape:export-filename="E:\text2901.png"
        inkscape:export-xdpi="96"
@@ -10560,7 +10560,7 @@
          sodipodi:role="line"
          id="tspan2050"
          x="436.5625"
-         y="39.6875">Pattern Editor</tspan></text>
+         y="37.041664">Pattern Editor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -10703,7 +10703,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="436.5625"
-       y="26.458334"
+       y="23.812498"
        id="text19660"
        inkscape:export-filename="E:\text2901.png"
        inkscape:export-xdpi="96"
@@ -10711,7 +10711,7 @@
          sodipodi:role="line"
          id="tspan19680"
          x="436.5625"
-         y="26.458334">NAVIGATE</tspan></text>
+         y="23.812498">NAVIGATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
