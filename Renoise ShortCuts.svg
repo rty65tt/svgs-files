@@ -28,15 +28,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      units="px"
-     inkscape:zoom="0.11196396"
-     inkscape:cx="1915.7951"
-     inkscape:cy="589.4754"
+     inkscape:zoom="0.44785584"
+     inkscape:cx="2733.0223"
+     inkscape:cy="538.11959"
      inkscape:window-width="1366"
      inkscape:window-height="715"
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:snap-bbox="true"
      inkscape:snap-grids="true"
      inkscape:snap-text-baseline="true"
@@ -138,11 +138,19 @@
        y="24.870964"
        ry="4.2241016e-08" />
     <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.656596;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
+       id="rect15759"
+       width="185.20827"
+       height="323.50543"
+       x="820.20831"
+       y="145.5209"
+       ry="1.720224e-07" />
+    <rect
        style="fill:#9d93ac;stroke-width:0.895028;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect4674"
-       width="180"
+       width="172"
        height="87.233284"
-       x="821.7959"
+       x="824.97101"
        y="276.22498"
        ry="2.047123e-08" />
     <rect
@@ -170,28 +178,20 @@
        y="223.83751"
        ry="1.9142821e-08" />
     <rect
-       style="fill:#999999;stroke-width:0.82822;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
+       style="fill:#999999;stroke-width:0.828217;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect35594"
        width="383.78986"
-       height="290"
+       height="296"
        x="13.229166"
        y="269.34579"
-       ry="2.8356226e-08" />
+       ry="2.8942907e-08" />
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.656596;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
-       id="rect15759"
-       width="164.57091"
-       height="88.026283"
-       x="822.32489"
-       y="380.99997"
-       ry="4.6807539e-08" />
-    <rect
-       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.529903;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.529903;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
        id="rect17850"
        width="86"
        height="16"
        x="724.4292"
-       y="158.75"
+       y="158.22084"
        ry="3.4031682e-08" />
     <rect
        style="fill:#6f916f;fill-opacity:1;stroke-width:0.444958;stroke-linecap:round;stroke-dashoffset:19.4731;paint-order:stroke fill markers"
@@ -204,9 +204,9 @@
     <rect
        style="fill:#9d93ac;stroke-width:0.909111;stroke-linejoin:round;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect7780"
-       width="180"
+       width="172"
        height="90"
-       x="821.7959"
+       x="824.97095"
        y="155.04579"
        ry="2.1120501e-08" />
     <path
@@ -217,7 +217,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#9d93ac;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 714.37499,238.12501 H 822.85416"
+       d="M 714.37502,238.12501 H 828.14586"
        id="path10986"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="0" />
@@ -593,8 +593,8 @@
        id="rect21628"
        width="13.311088"
        height="11.08192"
-       x="981.60413"
-       y="227.04311"
+       x="973.66669"
+       y="227.04309"
        ry="2.5870996e-08" />
     <text
        xml:space="preserve"
@@ -1559,19 +1559,19 @@
        id="rect2033"
        width="13.311088"
        height="11.08192"
-       x="976.31244"
-       y="213.81395"
+       x="968.375"
+       y="213.81393"
        ry="2.5870996e-08" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="979.98041"
-       y="222.4706"
+       x="972.04297"
+       y="222.47058"
        id="text2037"><tspan
          sodipodi:role="line"
          id="tspan2057"
-         x="979.98041"
-         y="222.4706">T</tspan></text>
+         x="972.04297"
+         y="222.47058">T</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect2063"
@@ -1583,13 +1583,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="985.27209"
-       y="235.69978"
+       x="977.33466"
+       y="235.69977"
        id="text2067"><tspan
          sodipodi:role="line"
          id="tspan2065"
-         x="985.27209"
-         y="235.69978">A</tspan></text>
+         x="977.33466"
+         y="235.69977">A</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.4731;paint-order:markers fill stroke"
        id="rect7805"
@@ -5541,7 +5541,7 @@
        id="use2059"
        width="100%"
        height="100%"
-       transform="translate(206.37494,-158.75008)"
+       transform="translate(198.43751,-158.75009)"
        style="display:inline" />
     <use
        x="0"
@@ -5550,7 +5550,7 @@
        id="use2061"
        width="100%"
        height="100%"
-       transform="translate(206.37494,-158.75008)"
+       transform="translate(198.43751,-158.75009)"
        style="display:inline" />
     <use
        x="0"
@@ -5727,7 +5727,7 @@
        id="use2069"
        width="100%"
        height="100%"
-       transform="translate(269.875,26.458344)"
+       transform="translate(277.81243,26.458353)"
        style="display:inline" />
     <use
        x="0"
@@ -5736,7 +5736,7 @@
        id="use2071"
        width="100%"
        height="100%"
-       transform="translate(269.875,26.458344)"
+       transform="translate(277.81243,26.458353)"
        style="display:inline" />
     <use
        x="0"
@@ -6574,7 +6574,7 @@
        id="use1965"
        width="100%"
        height="100%"
-       transform="translate(-4.3100001e-5,-132.29166)"
+       transform="translate(-7.9374738,-132.29167)"
        style="display:inline" />
     <use
        x="0"
@@ -6583,7 +6583,7 @@
        id="use1967"
        width="100%"
        height="100%"
-       transform="translate(-4.3100001e-5,-132.29166)"
+       transform="translate(-7.9374738,-132.29167)"
        style="display:inline" />
     <use
        x="0"
